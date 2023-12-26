@@ -18,17 +18,17 @@ Example of the generated calendar: ![alt text](exampleoutput.png)
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/cpp-calendar-generator.git
+git clone https://github.com/abelgeorgeantony/TCalendar.git
 ```
 
 Navigate to the project directory:
 ```bash
-cd cpp-calendar-generator
+cd TCalendar
 ```
 
 Compile the program:
 ```bash
-g++ calendar.cpp -o calendar
+g++ main.cpp -o calendar
 ```
 
 Run the program with a year as input:
