@@ -12,9 +12,10 @@ This project is a C++ program that generates a calendar for a given year and dis
 
 ## Demo
 
-Example of the generated calendar: ![alt text](exampleoutput.png)
+Example of the generated calendar: 
+![Output Screenshot](exampleoutput.png)
 
-## Usage
+## Setup
 
 Clone this repository:
 ```bash
@@ -30,6 +31,8 @@ Compile the program:
 ```bash
 g++ main.cpp -o calendar
 ```
+
+## Usage
 
 Run the program with a year as input:
 ```bash
