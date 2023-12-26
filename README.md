@@ -12,7 +12,7 @@ This project is a C++ program that generates a calendar for a given year and dis
 
 ## Demo
 
-Example of the generated calendar: https://path/to/your/calendar_screenshot.png
+Example of the generated calendar: ![alt text](exampleoutput.png)
 
 ## Usage
 
