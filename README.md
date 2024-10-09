@@ -7,8 +7,8 @@ This project is a C++ program that generates a calendar for a given year and dis
 ## Features
 
 * Calculates the calendar for any valid year.
-* Presents dates and months in a clear and readable format.
-* Simple and efficient C++ implementation.
+* Presents dates and months in a simple format.
+* Simple C++ implementation.
 
 ## Demo
 
