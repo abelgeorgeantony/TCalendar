@@ -55,7 +55,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-MIT: https://choosealicense.com/licenses/mit/: https://choosealicense.com/licenses/mit/
+NOTHING TO BE COMMERCIALISED, SO THERE IS NO NEED FOR ME TO GET A LICENSE OR SECURITY :)
 
 ## Contact
 
